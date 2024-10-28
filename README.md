@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new CAP project.
+Welcome to your new CAP App project.
 
 It contains these folders and files, following our recommended project layout:
 
